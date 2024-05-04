@@ -19,7 +19,7 @@
 
 #include <zephyr/settings/settings.h>
 
-#include <zephyr/kernel.h>
+#include <zephyr/kernel.h> 
 
 #define STACKSIZE 1024
 #define PRIORITY 7
